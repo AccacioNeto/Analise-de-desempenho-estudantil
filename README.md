@@ -1,4 +1,6 @@
 📊 **Análise de Desempenho Estudantil: Tendências e Insights**
+<img width="1243" height="703" alt="image" src="https://github.com/user-attachments/assets/d224f4ae-153d-4f44-aade-b2eec83b2a32" />
+<img width="1748" height="968" alt="image" src="https://github.com/user-attachments/assets/ea4f4106-4cac-4582-a73c-cca179b1237a" />
 
 🎯 **Objetivo do Projeto**
 Este dashboard desenvolvi para analisar o histórico de 12 avaliações de uma base de estudantes, com o objetivo de identificar padrões de aprendizado, prever as quedas de desempenho e destacar alunos com evolução excepcional. O foco é fornecer uma ferramenta de decisão para gestores educacionais.
